@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+{{- range .Site.RegularPages }}
+<channel id="{{ .Params.slug }}">
+    <display-name lang="{{ .Params.iso }}">{{ .Title }}</display-name>
+    <url>{{ .Permalink }}</url>
+  <icon src="{{ .Params.img }}"/>
+</channel>
+{{- end }}
+</tv>

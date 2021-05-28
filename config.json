@@ -1,0 +1,37 @@
+{
+	"baseURL": "https://tvmu.ga",
+	"languageCode": "en-us",
+	"params": {
+		"siteName": "TVMu.ga",
+		"baseName": "TVMu",
+		"plyURL": "https://play.tvmu.ga"
+	},
+	"uglyURLs": false,
+	"title": "Free IPTV M3u",
+	"disableHugoGeneratorInject": true,
+  "disableKinds": ["taxonomy","taxonomyTerm"],
+  "outputFormats": {
+      "m3u": {
+         "baseName": "playlist",
+         "isPlainText": true,
+         "mediaType": "audio/mpegurl"
+      },
+      "xml": {
+         "baseName": "playlist",
+         "isPlainText": true,
+         "mediaType": "application/xml"
+      }
+   },
+  "mediaTypes": {
+      "audio/mpegurl": {
+         "suffixes": [
+            "m3u"
+         ]
+      },
+      "application/x-mpegURL": {
+         "suffixes": [
+            "m3u8"
+         ]
+      }
+   }
+}
