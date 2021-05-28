@@ -1,7 +1,27 @@
 #EXTM3U url-tvg="https://tvmu.ga/epg/playlist.xml" x-tvg-url="https://tvmu.ga/epg/playlist.xml"
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet ID" tvg-logo="https://tvmu.ga/img/id/AnimalPlanet.id.png" tvg-chno="1" channel-id="1" group-title="LiveTV",Animal Planet ID
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax ID" tvg-logo="https://tvmu.ga/img/id/Animax.id.png" tvg-chno="1" channel-id="1" group-title="LiveTV",Animax ID
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162514.m3u8
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax ID" tvg-logo="https://tvmu.ga/img/id/Animax.id.png" tvg-chno="2" channel-id="2" group-title="LiveTV",Animax ID
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="ANIPlus ID" tvg-logo="https://tvmu.ga/img/id/ANIPlus.id.png" tvg-chno="2" channel-id="2" group-title="LiveTV",ANIPlus ID
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165081.m3u8
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies ID" tvg-logo="https://tvmu.ga/img/id/FOXActionMovies.id.png" tvg-chno="3" channel-id="3" group-title="LiveTV",FOX Action Movies ID
+#EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara ID" tvg-logo="https://tvmu.ga/img/id/Antara.id.png" tvg-chno="3" channel-id="3" group-title="LiveTV",Antara ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/166410.m3u8
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV ID" tvg-logo="https://tvmu.ga/img/id/ANTV.id.png" tvg-chno="4" channel-id="4" group-title="LiveTV",ANTV ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072.m3u8
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="beIN Sports 1 ID" tvg-logo="https://tvmu.ga/img/id/beINSports1.id.png" tvg-chno="10" channel-id="10" group-title="LiveTV",beIN Sports 1 ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165105.m3u8
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="beIN Sports 2 ID" tvg-logo="https://tvmu.ga/img/id/beINSports2.id.png" tvg-chno="11" channel-id="11" group-title="LiveTV",beIN Sports 2 ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073.m3u8
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies ID" tvg-logo="https://tvmu.ga/img/id/FOXActionMovies.id.png" tvg-chno="38" channel-id="38" group-title="LiveTV",FOX Action Movies ID
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157608.m3u8
+#EXTINF:-1 tvg-id="FOXFamilyMovies.id" tvg-name="FOX Family Movies ID" tvg-logo="https://tvmu.ga/img/id/FOXFamilyMovies.id.png" tvg-chno="40" channel-id="40" group-title="LiveTV",FOX Family Movies ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157595.m3u8
+#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX ID" tvg-logo="https://tvmu.ga/img/id/FOX.id.png" tvg-chno="37" channel-id="37" group-title="LiveTV",FOX ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080.m3u8
+#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="Fox Life ID" tvg-logo="https://tvmu.ga/img/id/FoxLife.id.png" tvg-chno="41" channel-id="41" group-title="LiveTV",Fox Life ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165083.m3u8
+#EXTINF:-1 tvg-id="FOXMovies.id" tvg-name="FOX Movies ID" tvg-logo="https://tvmu.ga/img/id/FOXMovies.id.png" tvg-chno="42" channel-id="42" group-title="LiveTV",FOX Movies ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165078.m3u8
+#EXTINF:-1 tvg-id="FOXNews.id" tvg-name="FOX News ID" tvg-logo="https://tvmu.ga/img/id/FOXNews.id.png" tvg-chno="44" channel-id="44" group-title="LiveTV",FOX News ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162512.m3u8
+#EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOXCrime ID" tvg-logo="https://tvmu.ga/img/id/FOXCrime.id.png" tvg-chno="39" channel-id="39" group-title="LiveTV",FOXCrime ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165076.m3u8
