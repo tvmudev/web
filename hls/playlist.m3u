@@ -25,3 +25,15 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165078.m3u
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162512.m3u8
 #EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOXCrime ID" tvg-logo="https://tvmu.ga/img/id/FOXCrime.id.png" tvg-chno="39" channel-id="39" group-title="LiveTV",FOXCrime ID
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165076.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar ID" tvg-logo="https://tvmu.ga/img/id/Indosiar.id.png" tvg-chno="58" channel-id="58" group-title="LiveTV",Indosiar ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162138.m3u8
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://tvmu.ga/img/id/MNCTV.id.png" tvg-chno="81" channel-id="81" group-title="LiveTV",MNC TV ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165054.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI ID" tvg-logo="https://tvmu.ga/img/id/RCTI.id.png" tvg-chno="93" channel-id="93" group-title="LiveTV",RCTI ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157591.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV ID" tvg-logo="https://tvmu.ga/img/id/SCTV.id.png" tvg-chno="98" channel-id="98" group-title="LiveTV",SCTV ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162141.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 ID" tvg-logo="https://tvmu.ga/img/id/Trans7.id.png" tvg-chno="106" channel-id="106" group-title="LiveTV",Trans 7 ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162502.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://tvmu.ga/img/id/TransTV.id.png" tvg-chno="107" channel-id="107" group-title="LiveTV",Trans TV ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162503.m3u8
