@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://tvmu.ga/epg/playlist.xml" x-tvg-url="https://tvmu.ga/epg/playlist.xml"
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet ID" tvg-logo="http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162514.m3u8" tvg-chno="1" channel-id="1" group-title="LiveTV",Animal Planet ID
-<no value>
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax ID" tvg-logo="http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165081.m3u8" tvg-chno="2" channel-id="2" group-title="LiveTV",Animax ID
-<no value>
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies ID" tvg-logo="http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157608.m3u8" tvg-chno="3" channel-id="3" group-title="LiveTV",FOX Action Movies ID
-<no value>
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet ID" tvg-logo="https://tvmu.ga/img/id/AnimalPlanet.id.png" tvg-chno="1" channel-id="1" group-title="LiveTV",Animal Planet ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162514.m3u8
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax ID" tvg-logo="https://tvmu.ga/img/id/Animax.id.png" tvg-chno="2" channel-id="2" group-title="LiveTV",Animax ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165081.m3u8
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies ID" tvg-logo="https://tvmu.ga/img/id/FOXActionMovies.id.png" tvg-chno="3" channel-id="3" group-title="LiveTV",FOX Action Movies ID
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157608.m3u8
