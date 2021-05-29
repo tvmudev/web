@@ -1,0 +1,1 @@
+[{{ range $index, $e := .Site.RegularPages }}{{ if $index }}, {{ end }}{"title": "{{ .Title }}", "url": "{{ .Params.uri }}", "twc": "{{ .Params.twc }}", "rio": "{{ .Params.rio }}"}{{- end }}]

@@ -20,6 +20,11 @@
          "baseName": "playlist",
          "isPlainText": true,
          "mediaType": "application/xml"
+      },
+      "json": {
+         "baseName": "playlist",
+         "isPlainText": true,
+         "mediaType": "application/json"
       }
    },
   "mediaTypes": {
