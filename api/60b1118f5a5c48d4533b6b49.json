@@ -1,6 +1,13 @@
 {
-    "title": "FOX News ID",
-    "url": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162512.m3u8",
+    "id": "60b1118f5a5c48d4533b6b49",
+    "tid": 44,
+    "name": "FOX News ID",
+    "slug": "FOXNews.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/FOXNews.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162512.m3u8",
     "twc": "",
     "rio": ""
 }

@@ -1,6 +1,13 @@
 {
-    "title": "ANTV ID",
-    "url": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072.m3u8",
+    "id": "60b111845a5c48d4533b6277",
+    "tid": 4,
+    "name": "ANTV ID",
+    "slug": "ANTV.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/ANTV.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072.m3u8",
     "twc": "",
     "rio": ""
 }

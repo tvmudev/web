@@ -1,6 +1,13 @@
 {
-    "title": "Antara ID",
-    "url": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/166410.m3u8",
+    "id": "60b0cbd6094c0000e5005562",
+    "tid": 3,
+    "name": "Antara ID",
+    "slug": "Antara.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/Antara.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/166410.m3u8",
     "twc": "",
     "rio": ""
 }

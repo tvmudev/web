@@ -1,6 +1,13 @@
 {
-    "title": "ANIPlus ID",
-    "url": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165081.m3u8",
+    "id": "60b015f79b01000096000fa2",
+    "tid": 2,
+    "name": "ANIPlus ID",
+    "slug": "ANIPlus.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/ANIPlus.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165081.m3u8",
     "twc": "",
     "rio": ""
 }

@@ -1,6 +1,13 @@
 {
-    "title": "FOX Action Movies ID",
-    "url": "http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8",
+    "id": "60b1118d5a5c48d4533b6a17",
+    "tid": 38,
+    "name": "FOX Action Movies ID",
+    "slug": "FOXActionMovies.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/FOXActionMovies.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8",
     "twc": "foxmover",
     "rio": "re_4280011_f6a13dae2b81955882bc"
 }
