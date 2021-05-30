@@ -1,6 +1,13 @@
 {
-    "title": "FOX Crime ID",
-    "url": "http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8",
+    "id": "60b1118d5a5c48d4533b6a46",
+    "tid": 39,
+    "name": "FOX Crime ID",
+    "slug": "FOXCrime.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/FOXCrime.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8",
     "twc": "",
     "rio": ""
 }

@@ -1,6 +1,13 @@
 {
-    "title": "Trans 7 ID",
-    "url": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162502.m3u8",
+    "id": "60b1119e5a5c48d4533b7813",
+    "tid": 106,
+    "name": "Trans 7 ID",
+    "slug": "Trans7.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/Trans7.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162502.m3u8",
     "twc": "",
     "rio": ""
 }

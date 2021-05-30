@@ -1,6 +1,13 @@
 {
-    "title": "HBO Signature ID",
-    "url": "http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8",
+    "id": "60b111915a5c48d4533b6cb0",
+    "tid": 52,
+    "name": "HBO Signature ID",
+    "slug": "HBOSignature.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/HBOSignature.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8",
     "twc": "",
     "rio": ""
 }

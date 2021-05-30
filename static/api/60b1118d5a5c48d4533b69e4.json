@@ -1,6 +1,13 @@
 {
-    "title": "FOX ID",
-    "url": "http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8",
+    "id": "60b1118d5a5c48d4533b69e4",
+    "tid": 37,
+    "name": "FOX ID",
+    "slug": "FOX.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/FOX.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8",
     "twc": "",
     "rio": ""
 }

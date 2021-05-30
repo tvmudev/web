@@ -1,6 +1,13 @@
 {
-    "title": "HBO Hits ID",
-    "url": "http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8",
+    "id": "60b111905a5c48d4533b6c61",
+    "tid": 51,
+    "name": "HBO Hits ID",
+    "slug": "HBOHits.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/HBOHits.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8",
     "twc": "",
     "rio": ""
 }

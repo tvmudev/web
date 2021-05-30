@@ -1,6 +1,13 @@
 {
-    "title": "FOX Life ID",
-    "url": "http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8",
+    "id": "60b1118e5a5c48d4533b6ab0",
+    "tid": 41,
+    "name": "FOX Life ID",
+    "slug": "FoxLife.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/FoxLife.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8",
     "twc": "",
     "rio": ""
 }

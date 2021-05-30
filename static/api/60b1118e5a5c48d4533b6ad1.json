@@ -1,6 +1,13 @@
 {
-    "title": "FOX Movies ID",
-    "url": "http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8",
+    "id": "60b1118e5a5c48d4533b6ad1",
+    "tid": 42,
+    "name": "FOX Movies ID",
+    "slug": "FOXMovies.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/FOXMovies.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8",
     "twc": "",
     "rio": ""
 }

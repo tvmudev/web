@@ -1,6 +1,13 @@
 {
-    "title": "beIN Sports 2 ID",
-    "url": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073.m3u8",
+    "id": "60b111865a5c48d4533b6386",
+    "tid": 11,
+    "name": "beIN Sports 2 ID",
+    "slug": "beINSports2.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/beINSports2.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073.m3u8",
     "twc": "",
     "rio": ""
 }

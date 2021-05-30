@@ -1,6 +1,13 @@
 {
-    "title": "Indosiar ID",
-    "url": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162138.m3u8",
+    "id": "60b111925a5c48d4533b6e17",
+    "tid": 58,
+    "name": "Indosiar ID",
+    "slug": "Indosiar.id",
+    "group": "LiveTV",
+    "img": "https://tvmu.ga/img/id/Indosiar.id.png",
+    "iso": "id",
+    "stat": 1,
+    "uri": "http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162138.m3u8",
     "twc": "",
     "rio": ""
 }
