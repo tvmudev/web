@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="{{ .Site.BaseURL }}/epg/playlist.xml" x-tvg-url="{{ .Site.BaseURL }}/epg/playlist.xml"
 {{- range .Site.RegularPages }}
 #EXTINF:-1 tvg-id="{{ .Params.slug }}" tvg-name="{{ .Title }}" tvg-logo="{{ .Params.img }}" tvg-chno="{{ .Params.tid }}" channel-id="{{ .Params.tid }}" group-title="{{ .Params.group }}",{{ .Title }}
-{{ .Params.uri }}
+{{ .Site.Params.plyURL }}/hls/{{ .Params.id }}/master.m3u8
 {{- end }}
